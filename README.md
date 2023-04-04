@@ -3,7 +3,7 @@ Colorectal Tissue Classification</h1>
 <!-- <p align="center">for 3D-Aware Image Generation</p> -->
 
 <p align="center">
-  <img width="90%" src="Figures/intro.jpg"/>
+  <img width="90%" src="Fig/arch.jpg"/>
 </p>
 
 **Cross-modulated Few-shot Image Generation for Colorectal Tissue Classification**<br>
