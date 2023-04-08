@@ -17,3 +17,16 @@ Abstract: *In this work, we propose a few-shot colorectal tissue image generatio
 * Code will released soon.
 
 ## Method
+
+## Citation
+
+If you find our work helpful, please **star🌟** this repo and **cite📑** our paper. Thanks for your support!
+
+```
+@article{kumar2023cross,
+  title={Cross-modulated Few-shot Image Generation for Colorectal Tissue Classification},
+  author={Kumar, Amandeep and Narayan, Sanath and Cholakkal, Hisham and Anwer, Rao Muhammad and Laaksonen, Jorma and Khan, Fahad Shahbaz and others},
+  journal={arXiv preprint arXiv:2304.01992},
+  year={2023}
+}
+```
