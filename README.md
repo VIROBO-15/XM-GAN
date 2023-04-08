@@ -16,7 +16,6 @@ Abstract: *In this work, we propose a few-shot colorectal tissue image generatio
 ## :rocket: News
 * Code will released soon.
 
-## Method
 
 ## Citation
 
