@@ -16,6 +16,12 @@ Abstract: *In this work, we propose a few-shot colorectal tissue image generatio
 ## :rocket: News
 * Code will released soon.
 
+## Training 
+```shell
+python train.py --conf configs/cancer.yaml \
+--output_dir results/cancer \
+--gpu 0
+```
 
 ## Citation
 
