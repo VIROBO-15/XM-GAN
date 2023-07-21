@@ -1,5 +1,5 @@
 <h1 align="center">Cross-modulated Few-shot Image Generation for
-Colorectal Tissue Classification</h1>
+Colorectal Tissue Classification [MICCAI 2024]</h1>
 <!-- <p align="center">for 3D-Aware Image Generation</p> -->
 
 <p align="center">
