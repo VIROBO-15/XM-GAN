@@ -1,5 +1,3 @@
-# MICCAI-2023
-
 <h1 align="center">Cross-modulated Few-shot Image Generation for
 Colorectal Tissue Classification [MICCAI 2023]</h1>
 <!-- <p align="center">for 3D-Aware Image Generation</p> -->
