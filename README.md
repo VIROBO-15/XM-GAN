@@ -14,7 +14,8 @@ Colorectal Tissue Classification [MICCAI 2023]</h1>
 Abstract: *In this work, we propose a few-shot colorectal tissue image generation method for addressing the scarcity of histopathological training data for rare cancer tissues.  Our  few-shot generation method, named XM-GAN, takes one base and a pair of reference tissue images as input and  generates high-quality yet diverse images. Within our XM-GAN, a novel controllable fusion block densely aggregates local regions of reference images based on their similarity to those in the base image, resulting in locally consistent features. To the best of our knowledge, we are the first to investigate few-shot generation in colorectal tissue images. We evaluate our few-shot colorectral tissue image generation by performing extensive qualitative, quantitative and subject specialist (pathologist) based evaluations. Specifically, in specialist-based evaluation, pathologists could differentiate between our XM-GAN generated tissue images and real images only  55\% time.  Moreover, we utilize these generated images as data augmentation to address the few-shot tissue image classification task, achieving a gain of 4.4\% in terms of mean accuracy over the vanilla few-shot classifier..*
 
 ## :rocket: News
-* Code will released soon.
+- **September 6, 2023** : Released code for XMGAN
+- **May 25, 2023** : Early acceptance in [MICCAI 2023](https://conferences.miccai.org/2023/en/) (top 14%) &nbsp;&nbsp; :confetti_ball:
 
 ### Setup
 
