@@ -79,6 +79,9 @@ If you find our work helpful, please **star🌟** this repo and **cite📑** our
 Our code is designed based on [LoFGAN](https://github.com/edward3862/LoFGAN-pytorch).
 
 
+## Contact
+If you have any question, please create an issue on this repository or contact at **amandeep.kumar@mbzuai.ac.ae**
 
+<hr />
 
 
